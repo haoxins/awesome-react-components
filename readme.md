@@ -284,6 +284,7 @@
  - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
  - [react-date-select](https://github.com/JedWatson/react-date-select) - A React Date Select / Picker Input Component.
  - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.
+ - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr wrapper for React, a lightweight and powerful datetimepicker with no dependencies
 
 
 ###### Rich Text Editing
